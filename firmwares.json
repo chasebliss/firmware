@@ -3,16 +3,14 @@
     "name": "Lossy",
     "platform": "models",
     "filepath": "./dist/models/CB_LOSSY.bin",
-    "description": "no desc available yet",
-    "url": "https://raw.githubusercontent.com/electro-smith/DaisyExamples/master/field/stringvoice/README.md",
+    "description": "Chase Bliss Lossy Firmware",
     "bgColor": "#f9b8bc"
   },
   {
-    "name": "Mood",
+    "name": "Mood MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
-    "description": "no desc available yet",
-    "url": "https://raw.githubusercontent.com/electro-smith/DaisyExamples/master/field/phaser/README.md",
+    "description": "Chase Bliss Mood MKII Firmware",
     "bgColor": "#a17399"
   }
 ]
