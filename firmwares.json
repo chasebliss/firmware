@@ -4,13 +4,15 @@
     "platform": "models",
     "filepath": "./dist/models/CB_LOSSY.bin",
     "description": "Chase Bliss Lossy Firmware",
-    "bgColor": "#f9b8bc"
+    "bgColor": "#f9b8bc",
+    "active": false
   },
   {
     "name": "Mood MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
     "description": "Chase Bliss Mood MKII Firmware",
-    "bgColor": "#a17399"
+    "bgColor": "#a17399",
+    "active": true
   }
 ]
