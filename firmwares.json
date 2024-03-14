@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "Lossy",
     "platform": "models",
     "filepath": "./dist/models/CB_LOSSY.bin",
@@ -8,6 +9,7 @@
     "active": false
   },
   {
+    "id": 1,
     "name": "Mood MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
@@ -15,7 +17,8 @@
     "bgColor": "#a17399",
     "active": true
   },
-    {
+  {
+    "id": 2,
     "name": "Generation Loss MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
@@ -23,7 +26,8 @@
     "bgColor": "#d3d5d3",
     "active": false
   },
-    {
+  {
+    "id": 3,
     "name": "Reverse Mode C",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
