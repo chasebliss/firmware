@@ -14,5 +14,21 @@
     "description": "Chase Bliss Mood MKII Firmware",
     "bgColor": "#a17399",
     "active": true
+  },
+    {
+    "name": "Generation Loss MKII",
+    "platform": "models",
+    "filepath": "./dist/models/CB_MOOD_MKII.bin",
+    "description": "Chase Bliss Generation Loss MKII Firmware",
+    "bgColor": "#d3d5d3",
+    "active": false
+  },
+    {
+    "name": "Reverse Mode C",
+    "platform": "models",
+    "filepath": "./dist/models/CB_MOOD_MKII.bin",
+    "description": "Chase Bliss Reverse Mode C Firmware",
+    "bgColor": "#b1c0ca",
+    "active": false
   }
 ]
