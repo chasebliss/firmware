@@ -49,11 +49,3 @@ After adding the new entry, validate the JSON file to ensure there are no syntax
 ### Step 5: Commit Your Changes
 
 Once validated, commit your changes to the repository, following your project's contribution guidelines. If you're working within a team, consider creating a pull request for review.
-
-## Conclusion
-
-By following these steps, you can successfully add a new pedal firmware to the `firmwares.json` file, contributing to the Chase Bliss firmware ecosystem. This process ensures that the firmware library remains organized and easily accessible for updates and management.
-
----
-
-**Note**: Replace placeholders like `CB_REVERSE_MODE_C.bin` and hex color codes with actual values corresponding to the new firmware you're adding. Ensure all information is accurate and reflective of the firmware's purpose and compatibility.
