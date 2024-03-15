@@ -1,10 +1,4 @@
-Got it! Let's adjust the README to focus on how to add a new pedal firmware to the `firmwares.json` file, intended for developers or advanced users who are managing or contributing to the firmware library.
-
----
-
 # Chase Bliss Firmware Sources
-
-This guide is intended for developers or contributors who wish to add a new pedal firmware entry to the `firmwares.json` file in the Chase Bliss firmware library.
 
 ## Introduction
 
@@ -50,7 +44,7 @@ Open the `firmwares.json` file in your text editor or IDE. Append the JSON block
 
 ### Step 4: Validate JSON Integrity
 
-After adding the new entry, validate the JSON file to ensure there are no syntax errors. You can use online JSON validation tools or IDEs with JSON support to check the file.
+After adding the new entry, validate the JSON file to ensure there are no syntax errors. You can use an online JSON validation tools like this [JSON Formatter](https://jsonformatter.curiousconcept.com/#).
 
 ### Step 5: Commit Your Changes
 
