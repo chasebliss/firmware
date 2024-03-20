@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Lossy",
+    "name": "LOSSY",
     "platform": "models",
     "filepath": "./dist/models/CB_LOSSY.bin",
     "description": "Chase Bliss Lossy Firmware",
@@ -10,7 +10,7 @@
   },
   {
     "id": 1,
-    "name": "Mood MKII v1.0",
+    "name": "MOOD MKII v1.0",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII_1.0.bin",
     "description": "Chase Bliss Mood MKII v1.0 Firmware",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "Mood MKII v1.1",
+    "name": "MOOD MKII v1.1 - NEW",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII_1.1.bin",
     "description": "Chase Bliss Mood MKII v1.1 Firmware",
@@ -28,7 +28,7 @@
   },
   {
     "id": 3,
-    "name": "Generation Loss MKII",
+    "name": "GENERATION LOSS MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
     "description": "Chase Bliss Generation Loss MKII Firmware",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "name": "Reverse Mode C",
+    "name": "REVERSE MODE C",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
     "description": "Chase Bliss Reverse Mode C Firmware",
