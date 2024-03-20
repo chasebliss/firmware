@@ -10,15 +10,24 @@
   },
   {
     "id": 1,
-    "name": "Mood MKII",
+    "name": "Mood MKII v1.0",
     "platform": "models",
-    "filepath": "./dist/models/CB_MOOD_MKII.bin",
-    "description": "Chase Bliss Mood MKII Firmware",
+    "filepath": "./dist/models/CB_MOOD_MKII_1.0.bin",
+    "description": "Chase Bliss Mood MKII v1.0 Firmware",
     "bgColor": "#a17399",
     "active": true
   },
   {
     "id": 2,
+    "name": "Mood MKII v1.1",
+    "platform": "models",
+    "filepath": "./dist/models/CB_MOOD_MKII_1.1.bin",
+    "description": "Chase Bliss Mood MKII v1.1 Firmware",
+    "bgColor": "#a17399",
+    "active": true
+  },
+  {
+    "id": 3,
     "name": "Generation Loss MKII",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
@@ -27,7 +36,7 @@
     "active": false
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Reverse Mode C",
     "platform": "models",
     "filepath": "./dist/models/CB_MOOD_MKII.bin",
